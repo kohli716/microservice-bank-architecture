@@ -72,6 +72,10 @@ As part of our ongoing commitment to improving the banking application, we are p
 - Adding deposit and investment functionalities will enable users to manage their savings and investments directly through the banking application. Features such as fixed deposits, recurring deposits, and investment portfolio tracking will empower users to make informed financial decisions.
 - and more....
 
+## 🙏 Credits
+
+This project is built upon the foundational work of [**kartik1502**](#) and their amazing contributions. All credit for the core ideas and structure belongs to them.
+
 <h2>🤝 Contribution</h2>
 
 Contributions to this project are welcome! Feel free to open issues, submit pull requests, or provide feedback to enhance the functionality and usability of this banking application. Follow the basic PR specification while creating a PR.
@@ -84,7 +88,7 @@ Happy Banking! 🏦💰
 
 If you have any questions, feedback, or need assistance with this project, please feel free to reach out to me:
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6361921186)
-[![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kartikkulkarni1411@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/7983013975)
+[![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amankumar13072002@gmail.com)
 
 We appreciate your interest in our project and look forward to hearing from you. Happy coding!
