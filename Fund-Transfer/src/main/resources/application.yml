@@ -1,0 +1,28 @@
+server:
+  port: 8085
+
+spring:
+  application:
+    name: fund-transfer-service
+    bad_request: 400
+    ok: 200
+
+#  datasource:
+#    url: jdbc:mysql://localhost:3306/fund_transfer_service
+#    username: root
+#    password: root
+  datasource:
+    url: jdbc:postgresql://localhost:5432/fund_transfer_service_db
+    username: fund_transfer_service
+    password: fund_transfer_service
+    driver-class-name: org.postgresql.Driver
+
+  jpa:
+    hibernate:
+      ddl-auto: update
+
+    show-sql: true
+
+    properties:
+      hibernate:
+        format_sql: true

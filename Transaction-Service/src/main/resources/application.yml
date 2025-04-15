@@ -1,0 +1,27 @@
+spring:
+  application:
+    name: transaction-service
+    bad_request: 400
+    conflict: 409
+    ok: 200
+
+#  datasource:
+#    url: jdbc:mysql://localhost:3306/transaction_service
+#    username: root
+#    password: root
+  datasource:
+    url: jdbc:postgresql://localhost:5432/transaction_service_db
+    username: transaction_service_user
+    password: transaction_service_user
+    driver-class-name: org.postgresql.Driver
+
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+    properties:
+      hibernate:
+        format_sql: true
+
+server:
+  port: 8084
