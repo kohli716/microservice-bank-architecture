@@ -74,7 +74,8 @@ As part of our ongoing commitment to improving the banking application, we are p
 
 ## 🙏 Credits
 
-This project is built upon the foundational work of [**kartik1502**](#) and their amazing contributions. All credit for the core ideas and structure belongs to them.
+This project was originally created by [Karthik Kulkarni](https://github.com/kartik1502) and has been modified by me.
+All credit for the core ideas and structure belongs to them.
 
 <h2>🤝 Contribution</h2>
 
